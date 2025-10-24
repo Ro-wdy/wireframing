@@ -117,6 +117,3 @@ By moving the button closer to the product image and using a clear visual hierar
 Wireframing plays a **critical role** in ensuring a user-centered design. It bridges the gap between ideas and implementation — helping teams create intuitive, efficient, and visually cohesive digital products.
 
 ---
-
-**Created by:** [Your Name]  
-**Repository:** [wireframing](https://github.com/your-username/wireframing)  
